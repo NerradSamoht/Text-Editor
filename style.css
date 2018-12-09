@@ -1,0 +1,15 @@
+body {
+  font-family: "Helevetica", sans-serif;
+  color: #333;
+}
+
+[id="title"] {
+  padding-top: 2rem;
+  font-size: 3em;
+  text-transform: capitalize;
+}
+
+[id="content"] {
+  padding-top: 0.75rem;
+  font-size: 1.5em;
+}
